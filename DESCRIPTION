@@ -17,3 +17,5 @@ Imports:
     htmltools,
     magrittr,
     stringr
+URL: https://github.com/BradyAJohnston/btools
+BugReports: https://github.com/BradyAJohnston/btools/issues
